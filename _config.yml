@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: NullaDev
 description: NullaDev Homepage
 logo: res/logo.jpg
-show_downloads: true
+show_downloads: false
