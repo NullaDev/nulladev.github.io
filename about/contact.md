@@ -1,7 +1,7 @@
-# 联系方式 - NullaDev
+# 联系方式
 ## 联系我们
 如您想要反馈本开发组作品中的bug，请发邮件至bug-report@nulladev.cn。<br>
-如您希望与本开发组进行合作，请发邮件至admin@nulladev.cn。
+如您希望与本开发组进行合作，请发邮件至admin@nulladev.cn。<br>
 [我们的Github地址](https://github.com/NullaDev)
 ## 加入我们
 Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强制性邀请组员一起开发项目。<br>
