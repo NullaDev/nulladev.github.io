@@ -15,4 +15,7 @@
 [下载](res/%E8%87%AA%E5%8A%A8%E4%BF%9D%E5%AD%98%E5%B0%8F%E5%8A%A9%E6%89%8B.jar)	[源码](https://github.com/NullaDev/AutoSaveBot)
 
 ## 导航
-[首页](/index.md)	[作品](/products/index.md)	[关于](/about/index.md)	[联系我们](/about/contact.md)
+[首页](http://www.nulladev.cn/index.md) | 
+[作品](http://www.nulladev.cn/products/index.md) | 
+[关于](http://www.nulladev.cn/about/index.md) | 
+[联系我们](http://www.nulladev.cn/about/contact.md)
