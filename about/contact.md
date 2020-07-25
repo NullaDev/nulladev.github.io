@@ -13,4 +13,4 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 + 该QQ群的日常内容包括商业互吹、黑屁和聊游戏，干货内容很少，开发项目时用专门的小群。因此还请酌情添加。
 
 ## 导航
-[首页](index.md)	[作品](products/index.md)	[关于](about/index.md)	[联系我们](about/contact.md)
+[首页](/index.md)	[作品](/products/index.md)	[关于](/about/index.md)	[联系我们](/about/contact.md)
