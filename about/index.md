@@ -47,4 +47,4 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 	+ 由于腾讯的迷之机制，QQ群的群号与爆破前完全相同。
 
 ## 导航
-[首页](/index.md)	[作品](/products/index.md)	[关于](/about/index.md)	[联系我们](/about/contact.md)
+[首页](../index.md)	[作品](../products/index.md)	[关于](../about/index.md)	[联系我们](../about/contact.md)
