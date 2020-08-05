@@ -9,6 +9,7 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 	+ 此时的Nulladev开发组还是Nulla游戏制作团队的开发分部。后该团队倒闭，Nulladev宣布独立。
 + 2015年11月23日
 	+ 从建组之初就计划要做的KeyCraft在群内发布首个（半成品）测试版本。
+	+ 现在mod文件已经不知道哪里去了。
 + 2015年12月14日
 	+ Nulladev一周年组祭，举办了一次UHC PVP，以组长**叶子切**获胜告终。
 	+ [视频链接](http://www.bilibili.com/video/av3393075/)
@@ -45,6 +46,10 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 	+ 组长**叶子切**重建了Nulladev开发组和QQ群。
 	+ 此时组名为Nulladev-Rebirth，后又改回Nulladev。
 	+ 由于腾讯的迷之机制，QQ群的群号与爆破前完全相同。
-
++ 2019年10月14日
+	+ SBSTG在taptap发布。
+	+ [发布地址](https://www.taptap.com/app/176782)
+	+ 该项目是本组少数没有弃坑的项目之一，历经多次版本更新，但完成度仍然很低。
+	
 ## 导航
 [首页](../index.md)	[作品](../products/index.md)	[关于](../about/index.md)	[联系我们](../about/contact.md)
