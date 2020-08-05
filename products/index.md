@@ -12,7 +12,8 @@
 
 ### 自动保存小助手
 一个在后台自动按Ctrl+S的小工具<br>
-[下载](res/%E8%87%AA%E5%8A%A8%E4%BF%9D%E5%AD%98%E5%B0%8F%E5%8A%A9%E6%89%8B.jar)	[源码](https://github.com/NullaDev/AutoSaveBot)
+（此处应有图片）<br>
+[点我跳转到项目页](/autosavebot.md)<br>
 
 ## 导航
 [首页](../index.md)	[作品](../products/index.md)	[关于](../about/index.md)	[联系我们](../about/contact.md)
