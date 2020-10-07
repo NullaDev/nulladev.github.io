@@ -3,7 +3,8 @@
 
 ### ExtraAcademy
 一个基于AcademyCraft的附属mod<br>
-[发布地址](https://www.mcbbs.net/forum.php?mod=viewthread&tid=925975)	[源码](https://github.com/NullaDev/ExtraAcC-1.12.2-)
+（此处应有图片）<br>
+[点我跳转到项目页](/exac.md)<br>
 
 ### SBSTG
 一个基于Egret引擎开发的打飞机游戏<br>

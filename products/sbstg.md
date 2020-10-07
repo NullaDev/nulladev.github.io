@@ -1,3 +1,4 @@
+[←返回](../products/index.md)
 # SBSTG
 
 ## 作品介绍
@@ -28,6 +29,7 @@
 ## 相关链接
 [发布地址](https://www.taptap.com/app/176782)<br>
 [源码](https://github.com/NullaDev/SBSTG)<br>
+[下载](res/sbstg-release-2.2.0.apk)<br>
 
 ## 你知道吗？
 + 这个游戏是**叶子切**第一次接触egret引擎时写出来的。

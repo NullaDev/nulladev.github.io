@@ -21,7 +21,7 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 	+ KeyCraft（半成品）mod在mcbbs发布，目前该贴已无法访问。
 + 2016年2月10日
 	+ 由于KeyCraft在初创时就没做企划，代码结构实在糟糕，因此该项目重构，取名KeyCraft-Rewrite。
-	+ 由于组员**马桶盖子**参加高考，时至今日该mod也没能写完。
+	+ 由于组员**马桶盖子**参加高考，且在考上大学后拒绝填坑，时至今日该mod也没能写完。
 	+ [项目链接](https://github.com/NullaDev/KeyCraft-Rewrite)
 + 2016年12月14日
 	+ Nulladev两周年组祭，又举办了一次UHC PVP。
@@ -49,7 +49,8 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 + 2019年10月14日
 	+ SBSTG在taptap发布。
 	+ [发布地址](https://www.taptap.com/app/176782)
-	+ 该项目是本组少数没有弃坑的项目之一，历经多次版本更新，但完成度仍然很低。
+	+ 该项目是本组少数没有弃坑，最终勉强算是写完的项目之一。
+	+ 但完成度仍然很低。
 	
 ## 导航
 [首页](../index.md)	[作品](../products/index.md)	[关于](../about/index.md)	[联系我们](../about/contact.md)
