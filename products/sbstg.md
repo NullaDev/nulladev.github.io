@@ -28,8 +28,8 @@
 
 ## 相关链接
 [（安卓）发布地址](https://www.taptap.com/app/176782)<br>
-[源码](https://github.com/NullaDev/SBSTG)<br>
-[下载](res/sbstg-release-2.2.0.apk)<br>
+[（github）源码](https://github.com/NullaDev/SBSTG)<br>
+[（安卓apk）下载](res/sbstg-release-2.2.0.apk)<br>
 [（H5）在线游戏](../test/index.html)<br>
 
 ## 你知道吗？
