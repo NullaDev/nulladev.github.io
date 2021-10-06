@@ -26,7 +26,7 @@
 ## 相关链接
 [发布地址](https://www.mcbbs.net/forum.php?mod=viewthread&tid=925975)<br>
 [源码](https://github.com/NullaDev/ExtraAcC-1.12.2-)<br>
-[下载](res/ExtraAcademy-1.1.0.jar)<br>
+[下载](res/ExtraAcademy-1.2.0-pre2.jar)<br>
 
 ## 你知道吗？
 + 由于AcademyCraft对附属mod的支持极差，本mod不得不使用了一些sb代码。
