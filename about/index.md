@@ -51,6 +51,10 @@ Nulladev开发组是一个非盈利性的开发交流组织，有时也会非强
 	+ [发布地址](https://www.taptap.com/app/176782)
 	+ 该项目是本组少数没有弃坑，最终勉强算是写完的项目之一。
 	+ 但完成度仍然很低。
++ 2022年2月21日
+	+ 时隔两年多，Nulladev为了招人终于憋出了新作品，一个1.18的魔法mod。
+	+ [发布地址](https://www.mcbbs.net/thread-1307461-1-1.html)
+	+ 然而最终一个新人也没招到，笑了。
 	
 ## 导航
 [首页](../index.md)	[作品](../products/index.md)	[关于](../about/index.md)	[联系我们](../about/contact.md)
