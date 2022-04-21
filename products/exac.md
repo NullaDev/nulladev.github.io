@@ -24,7 +24,7 @@
 懒得上传图片了，自己从下边找罢。<br>
 
 ## 相关链接
-[发布地址](https://www.mcbbs.net/forum.php?mod=viewthread&tid=925975)<br>
+[发布地址](https://www.mcbbs.net/thread-925975-1-1.html)<br>
 [源码](https://github.com/NullaDev/ExtraAcC-1.12.2-)<br>
 [下载](res/ExtraAcademy-1.2.0-pre2.jar)<br>
 
