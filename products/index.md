@@ -16,9 +16,9 @@
 因为组员**内鬼**迟迟写不出来，导致上边那个项目最终使用了别的引擎。<br>
 [源码点我](https://github.com/NullaDev/lazuli-example)<br>
 
-### CardFighter（即将完成）
+### CardFighter
 一个基于Unity2D的1D回合制卡牌格斗游戏。<br>
-绝赞制作中！（~~1年多了还没写完~~）<br>
+目前状态：基本完成<br>
 [源码点我](https://github.com/NullaDev/CardFighter)<br>
 <br>
 
