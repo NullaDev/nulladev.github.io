@@ -27,7 +27,7 @@
 [（安卓）发布地址](https://www.taptap.com/app/176782)<br>
 [（github）源码](https://github.com/NullaDev/SBSTG)<br>
 [（安卓apk）下载](res/sbstg-release-2.2.0.apk)<br>
-[（H5）在线游戏](../test/index.html)<br>
+[（H5）在线游戏](../game/sbstg/index.html)<br>
 
 ## 你知道吗？
 + 这个游戏是**叶子切**第一次接触egret引擎时写出来的。
